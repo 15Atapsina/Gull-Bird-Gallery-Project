@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Gull Bird Gallery</title>
+		<link rel="icon" type="imagee/x-icon" href="img/img.png">
+		<meta charset="UTF-8"/>
+	</head>
+	<body>
+		<img src="img/first.jpg" alt="First image"height="500"/>
+		<h1>Gull Bird</h1>
+		<p><b> Gulls,or colloquially seagulls </b> are seabirds of the family Laridae in the suborder Lari.They are most closely related to the terns and skimmers and only distantly related to auks, and even more distantly to waders.</p>
+		<a href="#" title="Gulls are very intelligent animals">Gulls are very intelligent animals</a>
+		<h2>GULL BEHAVIOR</h2>
+        <p><strong>Seagulls</strong> live in large colonies with other gulls,either with other gull species or other seabird species.They are vocal communicators that use several distinct calls to demonstrate aggression,identify mating partners,warn the colony of a threat,and resolve a territorial dispute.Baby chicks will also use calls to beg for food from their parents.Seagulls show ease when swimming,flying, and walking. They are better adapted to walking on land than most other seabirds, and the smaller gulls tend to be more manoeuvrable while walking. Gulls walk in a side to side motion.When flying, they are able to hover and they are also able to take off quickly with little space.</p>
+		<h2>Gull Bird Gallery</h2>
+		<a href="https://media.istockphoto.com/photos/seagulls-picture-id534050814?k=20&m=534050814&s=612x612&w=0&h=JB4htFVapPOyLO_9wTiyBaKAAF4CwnvOyjsr7bQDzqA=" target="_blank"><img src="img/2.jpg" alt="Link Image" width="400" height="300"/></a>
+		<a href="https://en.wikipedia.org/wiki/Gull" target="_blank">Visit site</a>
+		<a href="index.html" target="_blank">Home</a>
+		<a href="https://media.istockphoto.com/photos/jumping-for-joy-picture-id1284957037?k=20&m=1284957037&s=612x612&w=0&h=SP9Z3r1Q8vMJIdvOqKptI6qAk_mdbJVVeQZ7e5yHh8k=" target="_blank"><img src="img/3.jpg" alt="Link Image" width="400" height="300"/></a>
+		<a href="https://www.britannica.com/animal/gull" target="_blank">Visit site</a>
+		<a href="index.html" target="_blank">Home</a>
+		<a href="https://media.istockphoto.com/photos/lunch-at-the-beach-picture-id143175529?k=20&m=143175529&s=612x612&w=0&h=ooQ6LS8kWT4nzm9FwScp_fmkodi7sN5eUPsaQVSABOU=" target="_blank"><img src="img/4.jpg" alt="Link Image" width="400" height="300"/></a>
+		<a href="https://www.rspb.org.uk/birds-and-wildlife/wildlife-guides/bird-a-z/gulls-and-terns/" target="_blank">Visit site</a>
+		<a href="index.html" target="_blank">Home</a>
+		<a href="https://media.istockphoto.com/photos/seagull-fishing-picture-id521002575?k=20&m=521002575&s=612x612&w=0&h=YOInY6sMcmVgrJ7wQBoW_wtNzgfvycTwiy4kbG2mMH8=" target="_blank"><img src="img/5.jpg" alt="Link Image" width="400" height="300"/></a>
+		<a href="https://onekindplanet.org/animal/seagull/" target="_blank">Visit site</a>
+		<a href="index.html" target="_blank">Home</a>
+		<address>
+		PREPARED BY:
+		Tapsina Hasneen
+		Bhola,Bangladesh
+		</address>
+	</body>
+</html>
